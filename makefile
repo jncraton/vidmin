@@ -1,4 +1,4 @@
-all: deploy
+all:
 
 lint:
 	npx prettier@3.6.2 --check .
